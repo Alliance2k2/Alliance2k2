@@ -26,8 +26,8 @@ I am a **Master's student in Data Science** at AIMS Rwanda, passionate about usi
 
 | Project | Description |
 |---------|-------------|
-| [Ad Click Prediction]) | Built a logistic regression model to predict user ad clicks with 84% accuracy using Python. |
-| [Economic Modeling] | Developed a Cobb-Douglas production function model to analyze resource allocation under cost constraints. |
+| Ad Click Prediction | Built a logistic regression model to predict user ad clicks with 84% accuracy using Python. |
+| Economic Modeling | Developed a Cobb-Douglas production function model to analyze resource allocation under cost constraints. |
 
 > *Add links to your actual repositories once you upload them.*
 
@@ -47,7 +47,7 @@ I am a **Master's student in Data Science** at AIMS Rwanda, passionate about usi
 
 - **Email:** alliance.irigenera@aims.ac.rw
 - **LinkedIn:** [linkedin.com/in/alliance-irigenera](www.linkedin.com/in/alliance-irigenera)
-- **GitHub:** [github.com/alliance-irigenera](https://github.com/alliance-irigenera)
+- **GitHub:** [github.com/alliance-irigenera](https://github.com/Alliance2k2))
 
 ---
 
